@@ -49,11 +49,7 @@ In addition, students can use this code to practice making pip-installable pytho
 
   6. In another terminal, make sure you have a local MongoDB server running (e.g. ``mongod --config /usr/local/etc/mongod.conf``)
 
-  7. Run the *load_database.py* script and supply a keyword argument to filter tweets by any particular keyword.
-
-    - e.g. ``python load_database.py -k berlin``
-
-    - To view argument parser help in the command line, type ``python load_database.py -h``
+  7. Run the *load_database.py* script and supply a keyword argument to filter tweets by any particular keyword. (e.g. ``python load_database.py -k berlin``). To view argument parser help in the command line, type ``python load_database.py -h``.
 
 #### Credits
 
