@@ -33,3 +33,10 @@ In addition, students can use this code to practice making pip-installable pytho
 #### Data Flow Diagram
 
 ![Alt text](twitter-mongo-diagram.png?raw=true "Title")
+
+#### Credits
+
+Parts of this code were inspired by and modified from the **tweego** project (developed by the [realtweego](https://github.com/realtweego) development team).
+
+Repository:
+[https://github.com/realtweego/tweego](https://github.com/realtweego/tweego).
