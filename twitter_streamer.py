@@ -21,14 +21,12 @@ altered at the end of the script.
 """
 
 import json
-from datetime import datetime  # solely for testing script execution time.
 
 from tweepy import OAuthHandler, Stream
 from tweepy.streaming import StreamListener
 
 import config
 
-STARTTIME = datetime.now()
 LANGUAGES = ['en']
 
 def get_geo_data(tweet):
