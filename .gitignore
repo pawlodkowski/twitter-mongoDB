@@ -105,3 +105,6 @@ venv.bak/
 
 #configuration file for twitter API credentials
 config.py
+
+#simple twiter streamer for teaching
+twitter_streamer_simple.py
